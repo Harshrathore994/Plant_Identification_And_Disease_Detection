@@ -1,0 +1,2 @@
+# Plant_Identification_And_Disease_Detection
+Plants Classification and Disease Detection
