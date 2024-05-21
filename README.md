@@ -6,11 +6,8 @@ This project demonstrates the power of combining advanced machine learning model
 My primary contribution to this project has been in the web development domain, creating a user-friendly and efficient interface to interact with these advanced models.
 
 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
-
 🔬 𝐓𝐰𝐨 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐌𝐨𝐝𝐞𝐥𝐬:
-
 𝐕𝐢𝐓 (𝐕𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫) for identifying the name of the plant.
-
 𝐂𝐍𝐍 (𝐂𝐨𝐧𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐚𝐥 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤) for detecting plant diseases.
 
 💻 𝐑𝐨𝐛𝐮𝐬𝐭 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭:
