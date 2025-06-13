@@ -192,7 +192,10 @@ async function search() {
     const requestOptions = {
       method: "POST",
       headers: {
-        "Authorization": "Bearer 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",
+        //new
+        "Authorization": "Bearer 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",
+        //old
+        //"Authorization": "Bearer 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",
         "Content-Type": "application/json"
       },
       body: JSON.stringify({ image: imageData }), // Send image data as JSON
