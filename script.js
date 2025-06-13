@@ -193,7 +193,7 @@ async function search() {
       method: "POST",
       headers: {
         //new
-        "Authorization": "Bearer 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",
+        "Authorization": "Bearer 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",
         //old
         //"Authorization": "Bearer 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",
         "Content-Type": "application/json"
